@@ -18,9 +18,9 @@ Yes it is. If this bothers you you can change the settings so it opens fullscree
  1. Right click Tsukihime in Lutris
  2. *Configure*
  3. Click the *Game options* tab.
- 4. Change *Arguments* to ´-s ./ --fullscreen´
+ 4. Change *Arguments* to `-s ./ --fullscreen` or `-s ./ --window-width 1300` (your screen might work better with a smaller or larger number).
  5. It should start the game in fullscreen mode now.
-Scaling and resizing seems to not work right now. If you find a way to make it work please inform me and I will adjust the instructions.
+
 ### Lutris failed to download onscripter!
 Oh dear. This means archive.org is down. Luckily onscripter is GPL licensed. You should find it among the releases in this repo. Download it and tell lutris to manually pick the file.
 
