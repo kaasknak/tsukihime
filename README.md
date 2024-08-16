@@ -1,3 +1,7 @@
+This installer has been made obsolete by the awesome work of @requinDr who has made it available via the browser here tsukiweb.holofield.fr/
+This installer should still work but I am probably not going to put more effort into it.
+Feel free to fork it or make a pull request if you have improvements though.
+
 ### Installer for Tsukihime on linux systems using WINE.
 This repository hosts as bash installer for Tsukihime using WINE and adding it to lutris.
 In order to install the game you will need an original CD or the .iso file of an original CD (NOT a .img-file, for some reason this game won't mount if it is on a .img file. This problem persists using different programs / converters and seems to persist on windows systems as well with the exception of using Daemon Tools.).
